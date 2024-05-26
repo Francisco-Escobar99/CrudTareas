@@ -1,0 +1,21 @@
+body.bgPage{
+    background-color: #a3b18a;
+       
+}
+th.bgcolor{
+    background-color: #344e41;
+    color: white;
+     
+  }
+
+td.bgtdcolor{
+    background-color: #588157;
+    font-weight: 700;
+}
+
+h2.mt-4{
+    text-align: center;
+    font-style: italic;
+    font-weight: 700;
+
+}
