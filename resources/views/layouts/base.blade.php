@@ -8,7 +8,7 @@
     <link href="{{ asset('css/index.css') }}"  rel="stylesheet">
     
 
-    <title>CRUD laravel 10</title>
+    <title>CRUD de Tareas</title>
 </head>
 <body class="bgPage">
     <div class="container">
